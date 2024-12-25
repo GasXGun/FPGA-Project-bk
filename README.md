@@ -1,4 +1,4 @@
-# FPGA-Project-bk
+# FPGA-Final Project-黑白棋
 黑白棋遊戲呈現在8x8LED上<br>
 ##### 修改專案 自 105321007_鄒瑞慶_105321021_簡健軒之Project<br>
 ### Authors: b班-112321004 王毓傑, b班-112321008 張文碩<br>
