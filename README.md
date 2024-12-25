@@ -1,7 +1,7 @@
 # FPGA-Project-bk
-黑白棋遊戲呈現在8x8LED上
-修改專案
-### Authors: b班-112321004 王毓傑, b班-112321008 張文碩
+黑白棋遊戲呈現在8x8LED上<br>
+##### 修改專案 自 105321007_鄒瑞慶_105321021_簡健軒之Project<br>
+### Authors: b班-112321004 王毓傑, b班-112321008 張文碩<br>
 
 #### 基本規則(邏輯功能):
 * 棋盤與棋子
@@ -51,6 +51,11 @@
 (示意圖)<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO4.png" width="200"/><br>
 #### (extra 2)不管怎麼翻都變成藍色(黑棋)
+(示意圖)<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO8.png" width="200"/><br>
+### 實作注意(建議)
+* 需要注意comm之調節，否則橫排排列會出大問題<br>
+* 在做功能前應先注意線的數量(使用功能)<br>
+* bk是原版本，bk_extra是修改後版本<br>
 ### 參考資料:
 * [黑白棋- 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E7%99%BD%E6%A3%8B)<br>
