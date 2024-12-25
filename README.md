@@ -41,7 +41,7 @@
 * 透過按鈕操作移動於確定落子位置(綠色)<br>
 (示意圖)<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO6.png" width="200"/><br>
-#### 用指撥開關來重置棋局
+#### 用指撥開關來重置棋局與落子
 * 棋盤的reset<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO7.png" width="200"/><br>
 ### 實現方式(邏輯功能):
