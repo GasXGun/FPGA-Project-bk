@@ -33,10 +33,6 @@
 * LED藍色:黑棋<br>
 * LED紅色:白棋<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO3.png" width="200"/><br>
-#### LED陣列，用來雙方分數計分
-* 左方表黑(藍)，右方表白(紅)，先取3分者獲勝<br>
-(示意圖)<br>
-<img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO5.png" width="200"/><br>
 ### 實現方式(操作功能):
 * 透過按鈕操作移動於確定落子位置(綠色)<br>
 (示意圖)<br>
@@ -50,5 +46,11 @@
 翻轉被夾的棋子(直橫斜)
 判定可否落子，若雙方都不可再落子則遊戲結束
 計分與判勝負，並記錄雙方勝局
+#### (extra 1)七段顯示器
+* 顯示下棋方剩餘時間與倒數<br>
+(示意圖)<br>
+<img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO4.png" width="200"/><br>
+#### (extra 2)不管怎麼翻都變成藍色(黑棋)
+<img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO8.png" width="200"/><br>
 ### 參考資料:
 * [黑白棋- 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E7%99%BD%E6%A3%8B)<br>
