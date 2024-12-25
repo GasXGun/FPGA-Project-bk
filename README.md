@@ -33,10 +33,6 @@
 * LED藍色:黑棋<br>
 * LED紅色:白棋<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO3.png" width="200"/><br>
-#### 在七段顯示器中
-* 顯示下棋方剩餘時間與倒數<br>
-(示意圖)<br>
-<img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO4.png" width="200"/><br>
 #### LED陣列，用來雙方分數計分
 * 左方表黑(藍)，右方表白(紅)，先取3分者獲勝<br>
 (示意圖)<br>
@@ -45,9 +41,8 @@
 * 透過按鈕操作移動於確定落子位置(綠色)<br>
 (示意圖)<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO6.png" width="200"/><br>
-#### 用指撥開關來重置棋局或比分
-* 1:得分的reset<br>
-* 2:棋盤的reset<br>
+#### 用指撥開關來重置棋局
+* 棋盤的reset<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO7.png" width="200"/><br>
 ### 實現方式(邏輯功能):
 * 黑白方輪流落子<br>
