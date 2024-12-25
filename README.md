@@ -1,12 +1,11 @@
 # FPGA-Final Project-黑白棋
-黑白棋遊戲呈現在8x8LED上<br>
 ##### 修改專案 自 105321007_鄒瑞慶_105321021_簡健軒之Project<br>
 ### Authors: b班-112321004 王毓傑, b班-112321008 張文碩<br>
 
 #### 基本規則(邏輯功能):
 * 棋盤與棋子
-棋盤是 8x8 的方格棋盤。
-棋子是雙面棋子，一面黑色，一面白色。
+棋盤是 8x8 的方格棋盤(呈現在8x8LED上)。<br>
+棋子是雙面棋子，一面黑色，一面白色。<br>
 玩家分別使用黑棋和白棋。<br>
 <img src="https://github.com/GasXGun/FPGA-Project-bk/blob/main/images/IO1.png" width="200"/><br>
 
